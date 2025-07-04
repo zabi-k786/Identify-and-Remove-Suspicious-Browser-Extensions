@@ -79,6 +79,23 @@
 
 ## 📸 Screenshots
 
+### Chrome Extensions List
+![Chrome Extensions 1](https://github.com/zabi-k786/Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/1_Chrome%20Extensions.png)
+![Chrome Extensions 2](https://github.com/zabi-k786/Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/2_Chrome%20Extensions.png)
+
+### Bitwarden Password Manager Details
+![Bitwarden 1](https://github.com/zabi-k786/Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/3_Bitwarden%20Password%20Manager.png)
+![Bitwarden 2](https://github.com/zabi-k786/Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/4_Bitwarden%20Password%20Manager.png)
+![Bitwarden 3](https://github.com/zabi-k786/Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/5_Bitwarden%20Password%20Manager.png)
+
+### FoxyProxy Extension
+![FoxyProxy 1](https://github.com/zabi-k786/Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/6_FoxyProxy.png)
+![FoxyProxy 2](https://github.com/zabi-k786/Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/7_FoxyProxy.png)
+
+### GoFullPage Extension
+![GoFullPage 1](https://github.com/zabi-k786/Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/8_GoFullPage%20-%20Full%20Page%20Screen%20Capture.png)
+![GoFullPage 2](https://github.com/zabi-k786/Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/9_GoFullPage%20-%20Full%20Page%20Screen%20Capture.png)
+
 ---
 
 ## 📁 Folder Structure
