@@ -97,6 +97,3 @@
 ![GoFullPage 2](https://github.com/zabi-k786/Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/9_GoFullPage%20-%20Full%20Page%20Screen%20Capture.png)
 
 ---
-
-## 📁 Folder Structure
-
