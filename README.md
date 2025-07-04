@@ -79,7 +79,20 @@
 
 ## 📸 Screenshots
 
-*(Upload screenshots in the GitHub repo if required — e.g., extension list, before/after removal)*
+### Chrome Extensions List
+![Chrome Extensions](screenshots/1_Chrome%20Extensions.png)
+
+### Bitwarden Password Manager Details
+![Bitwarden 1](screenshots/3_Bitwarden%20Password%20Manager.png)
+![Bitwarden 2](screenshots/4_Bitwarden%20Password%20Manager.png)
+
+### FoxyProxy Details
+![FoxyProxy 1](screenshots/6_FoxyProxy.png)
+![FoxyProxy 2](screenshots/7_FoxyProxy.png)
+
+### GoFullPage - Full Page Screen Capture Details
+![GoFullPage 1](screenshots/8_GoFullPage%20-%20Full%20Page%20Screen%20Capture.png)
+![GoFullPage 2](screenshots/9_GoFullPage%20-%20Full%20Page%20Screen%20Capture.png)
 
 ---
 
